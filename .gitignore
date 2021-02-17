@@ -2,3 +2,5 @@
 .*
 # кроме .gitignore
 !.gitignore
+
+node_modules/
